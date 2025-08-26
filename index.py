@@ -1,2 +1,3 @@
-def sum():
-    return 2 + 2 
+def sum(a, b):
+    res = a + b
+    return res

@@ -1,2 +1,2 @@
 def sum():
-    pass
+    return 2 + 2 
